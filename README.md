@@ -2,9 +2,6 @@
 
 Kişisel kitap koleksiyonunu yönetmek için modern, minimalist bir web uygulaması. React + Tailwind CSS ile geliştirilmiştir.
 
-## 🖼️ Ekran Görüntüsü
-
-> Uygulama ekran görüntüsü buraya eklenebilir.
 
 ## ✨ Özellikler
 
@@ -50,7 +47,7 @@ src/
 ## 🚀 Kurulum
 
 ```bash
-git clone https://github.com/KULLANICI_ADIN/book-library-app.git
+git clone https://github.com/benmevic/book-library-app.git
 cd book-library-app
 npm install
 npm start
@@ -58,7 +55,7 @@ npm start
 
 ## 🌐 Canlı Demo
 
-[Netlify'da Görüntüle](https://NETLIFY_URL.netlify.app)
+[Netlify'da Görüntüle]([https://NETLIFY_URL.netlify.app](https://meric-aytas-book-lib-app.netlify.app/))
 
 ## 📄 Lisans
 
