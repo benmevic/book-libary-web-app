@@ -53,10 +53,16 @@ npm install
 npm start
 ```
 
+## 📸 Ekran Görüntüleri
+
+![Ana Sayfa](screenshots/anasayfa.png)
+![Geçmiş](screenshots/kitapekle.png)
+![Ayarlar](screenshots/kategoriekle.png)
+
 ## 🌐 Canlı Demo
 
 [Netlify'da Görüntüle](https://iridescent-lollipop-78bc62.netlify.app/)
 
 ## 📄 Lisans
 
-MIT
+Meriç Aytaş
