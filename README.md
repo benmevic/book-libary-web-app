@@ -55,7 +55,7 @@ npm start
 
 ## 🌐 Canlı Demo
 
-[Netlify'da Görüntüle]([https://meric-aytas-book-lib-app.netlify.app/])
+[Netlify'da Görüntüle](https://meric-aytas-book-lib-app.netlify.app/)
 
 ## 📄 Lisans
 
